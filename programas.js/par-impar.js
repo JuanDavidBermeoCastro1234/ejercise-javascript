@@ -6,7 +6,7 @@ let primerNumero = Number(prompt("ingrese un numero"));
 if (primerNumero%2==0){
    alert("par")
 }
-else{
+else{z``
     alert("impar")
 }
 
